@@ -1,7 +1,6 @@
 #pragma once
 
 #include "Human.hpp"
-#include<iostream>
 #include <algorithm>
 #include <list>
 #include <vector>
